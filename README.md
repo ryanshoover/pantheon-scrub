@@ -234,17 +234,6 @@ git push pantheon master --force-with-lease
 
 ---
 
-## 🌟 Why pantheon-scrub?
-
-- **Professional** - Clean, reliable, well-tested
-- **Safe** - Automatic backups, interactive confirmations
-- **Fast** - Single command to fix all issues
-- **Portable** - Works on any Pantheon repository
-- **Transparent** - Shows exactly what it's doing
-- **Memorable** - Easy name to remember and type
-
----
-
 ## 📚 Documentation
 
 - [Pantheon Symlinks Documentation](https://docs.pantheon.io/symlinks-assumed-write-access)
