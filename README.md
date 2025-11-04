@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Bash](https://img.shields.io/badge/bash-5.0+-green.svg)](https://www.gnu.org/software/bash/)
-[![Pantheon](https://img.shields.io/badge/pantheon-ready-yellow.svg)](https://pantheon.io)
+[![Unofficial Support](https://img.shields.io/badge/pantheon-Unofficial_Support-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unofficial-support)
 
 > **⚠️ Professional Services Project:** This tool is developed and maintained by Pantheon Professional Services. It is not an official Pantheon product, but is provided to help customers resolve common deployment issues.
 
